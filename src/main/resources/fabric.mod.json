@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "screenoptimizer",
+	"version": "${version}",
+	"name": "ScreenOptimizer",
+	"description": "Forces certain parts of the game to sync with your framerate instead of the game tick rate",
+	"authors": [
+		"Fogma"
+	],
+	"contact": {
+		"sources": "https://github.com/Foggis/ScreenOptimizer"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/screenoptimizer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"fogma.screenoptimizer.FabricEntrypoint"
+		]
+	},
+	"mixins": [
+		"screenoptimizer.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
