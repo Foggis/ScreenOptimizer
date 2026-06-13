@@ -7,3 +7,11 @@
 # Is this mod allowed on this server?
 - play.echosmp.com = Allowed
 - TambNetwork = Allowed
+- ChickenCraft = Allowed
+
+
+- mcpvp.com = Pending
+- CatPVP = Pending
+- Neon Survival = Pending
+- EuPVP = Pending
+- mcpvp.club = pending
