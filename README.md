@@ -13,6 +13,5 @@
 - mcpvp.com = Pending
 - CatPVP = Pending
 - Neon Survival = Pending
-- EuPVP = Pending
 - mcpvp.club = pending
   
