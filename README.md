@@ -6,3 +6,4 @@
 
 # Is this mod allowed on this server?
 - play.echosmp.com = Allowed
+- TambNetwork = Allowed
