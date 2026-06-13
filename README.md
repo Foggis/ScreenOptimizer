@@ -1,19 +1,13 @@
-- Forces certain parts of the game to sync with your framerate instead of the game tick rate making things like going into inventory happen faster
+Forces certain parts of the game to sync with your framerate instead of the game tick rate, making things like opening your inventory happen faster.
 
-- Also if you want other versions select another branch.
+> To use a different version, select another branch for what version you want.
 
+---
 
+## Is this mod allowed?
 
-# Is this mod allowed on this server?
-### Yes
-- play.echosmp.com 
-- TambNetwork
-- ChickenCraft
-- Eupvp.net 
-# Waiting for answer
-- mcpvp.com 
-- CatPVP
-- Neon Survival
-- mcpvp.club 
-# Not allowed
-vanillaplus.net
+| Allowed | Server |
+|---|---|
+|Yes|play.echosmp.com · TambNetwork · ChickenCraf.nl · Eupvp.net |
+|  waiting  for response | mcpvp.com · CatPVP.net · Neon Survival · mcpvp.club |
+|No| vanillaplus.net |
