@@ -8,6 +8,6 @@ Forces certain parts of the game to sync with your framerate instead of the game
 
 | Allowed | Server |
 |---|---|
-|Yes|play.echosmp.com · TambNetwork · ChickenCraf.nl · Eupvp.net |
+|Yes|play.echosmp.com · TambNetwork · ChickenCraft.nl · Eupvp.net |
 |  waiting  for response | mcpvp.com · CatPVP.net · Neon Survival · mcpvp.club |
 |No| vanillaplus.net |
