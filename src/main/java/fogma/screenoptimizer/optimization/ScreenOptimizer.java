@@ -39,8 +39,8 @@ public class ScreenOptimizer {
 
         if (inv && !PreviouslyInInventory) {
             drain(mc.options.keyInventory);
-            if (mc.screen instanceof InventoryScreen) mc.player.closeContainer();
-            else mc.setScreen(new InventoryScreen(mc.player));
+            if (mc.gui.screen() instanceof InventoryScreen) mc.player.closeContainer();
+            else mc.gui.setScreen(new InventoryScreen(mc.player));
         }
 
 
